@@ -1,0 +1,21 @@
+.aboutMeSection{
+    color:rgb(34, 34, 172);
+    background-color: antiquewhite;
+    display: flex;
+}
+
+.contactSection{
+    color:rgb(34, 34, 172);
+    background-color: antiquewhite;
+    
+}
+
+.projectSection{
+    color:rgb(34, 34, 172);
+    background-color: antiquewhite;
+}
+
+#greeting{
+    color:rgb(34, 34, 172);
+    background-color: antiquewhite;
+}
