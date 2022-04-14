@@ -23,7 +23,7 @@ const Projects = () => {
             <div id='project1'>
                 
                 <h2 className='projectName'>eCommerce Site</h2>
-                    <img className='projectImage' src={ecommerce} alt="ecommerce website" />
+                    
                     <p className='projectInfo'>A web app for selling electronics and other goods posted by users. Group collaboration project with Maureen Linke, Matthew Jordison, and Rebecca Carr.</p>
                         <div className='projectSpecs'>
                             <p>Tech Used: Javascript, HTML, CSS, React, Node.js, Express, Postgres, Bootstrap, Heroku</p>
@@ -40,7 +40,7 @@ const Projects = () => {
             
             <div id='project2'>
                 <h2 className='projectName'>Fitness Trackr</h2>
-                    <img className='projectImage' src={fitnesstracker} alt="Fitness Trackr" />
+                    
                     <p className='projectInfo'>A fullstack web app where users can track their workouts and routines. Group collaboration with Ricardo Martinez, Jennifer McGrath and Maureen Linke.</p>
                         <div className='projectSpecs'>
                             <p>Tech Used: Javascript, HTML, CSS, React, Node.js, Express, Postgres, Bootstrap, Netlify, Heroku</p>
@@ -57,7 +57,7 @@ const Projects = () => {
 
             <div id='project3'>
                 <h2 className='projectName'>Stranger's Things</h2>
-                    <img className='projectImage' src={goodsforsale} alt="Stranger's Things" />
+                    
                     <p className='projectInfo'>A Craigslist lite app which allows for posting items for sale and messaging.</p>
                         <div className='projectSpecs'>
                             <p>Tech Used: Javascript, HTML, CSS, React, Node.js, Express, Postgres, Bootstrap, Netlify</p>
@@ -74,7 +74,7 @@ const Projects = () => {
 
             <div id='project4'>
                 <h2 className='projectName'>Wizard News</h2>
-                    <img className='projectImage' src={wizardnews} alt="Wizard News" />
+                    
                     <p className='projectInfo'>A social news platform where users can post their "wizard news" articles from all over the world!</p>
                         <div className='projectSpecs'>
                             <p>Tech Used: Javascript, HTML, CSS, React, Node.js</p>
@@ -91,7 +91,7 @@ const Projects = () => {
 
             <div id='project5'>
                 <h2 className='projectName'>Simple social media app</h2>
-                    <img className='projectImage' src={socialmedia} alt="simple social media app" />
+                    
                     <p className='projectInfo'>Full stack social media app for making posts and messaging between users</p>
                         <div className='projectSpecs'>
                             <p>Tech Used: Javascript, HTML, CSS, React, Node.js</p>
@@ -108,7 +108,7 @@ const Projects = () => {
 
             <div id='project6'>
                 <h2 className='projectName'>Phenomena</h2>
-                    <img className='projectImage' src={messageboard} alt="An anonymous message board app" />
+                    
                     <p className='projectInfo'>An anonymous message board. A social media app where users can post anonymous messages</p>
                         <div className='projectSpecs'>
                             <p>Tech Used: Javascript, HTML, CSS, React, Node.js</p>
